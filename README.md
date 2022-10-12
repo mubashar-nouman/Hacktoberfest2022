@@ -11,5 +11,6 @@ This repo currently includes following folders. You can contribute according to 
 * Python
 * Java
 * C++
+* Sorting Algorithms
 
 ![image](https://user-images.githubusercontent.com/87895707/195359410-5babce6b-9e68-42ae-aae0-5a31502a104c.png)
